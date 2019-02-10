@@ -17,7 +17,7 @@ It should compile with any recent trunk version of an arm-embedded FPC compiler.
 * Integrator/CP (QEMU)
 * Openmoko Freerunner
 * Raspberry PI v1
-
+* Rasberry PI 0 (partial, no wifi)
 ## Building:
 
 The project right now uses a single Lazarus project file: test.lpi
